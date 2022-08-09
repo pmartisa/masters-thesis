@@ -1,0 +1,80 @@
+
+
+.chart {
+    width: 50%;
+}
+
+footer {
+  width: 50%;
+  margin-left: 370px;
+  margin-right: 280px;
+  color:rgb(73, 68, 68);
+  size: 11px;
+}
+
+.title {
+  width: 50%;
+  margin-left: 370px;
+  margin-right: 280px;
+  color:rgb(15, 15, 15);
+  font-size: 24px;
+  font-family: Kohinoor Devanagari;
+}
+
+.quote {
+  width: 50%;
+  margin-left: 370px;
+  margin-right: 280px;
+  color:rgb(15, 15, 15);
+  font-size: 24px;
+  font-family: Kohinoor Devanagari;
+  font-weight: 700;
+}
+
+.subtitle {
+  width: 50%;
+  margin-left: 370px;
+  margin-right: 280px;
+  color:rgb(15, 15, 15);
+  font-size: 17px;
+  font-family: Kohinoor Devanagari;
+}
+
+
+.content p {
+  padding-bottom:10px;
+  line-height: 28px;
+  max-width: 1000px; 
+  margin-left: 350px;
+  margin-right: 380px;
+  font-family: arial;
+  font-size: 20px;
+  color: black;
+  overflow:hidden;
+  overflow-y:auto}
+  @media screen and (max-width:767px){body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%}
+  }
+
+
+  .content h3 {
+  font-family: Kohinoor Devanagari;
+  max-width: 1000px; 
+  margin-left: 350px;
+  margin-right: 380px;
+  font-size: 20px;
+  color: black;
+  overflow:hidden;
+  overflow-y:auto}
+  @media screen and (max-width:767px){body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%}
+  }
+
+  h2 {
+    color: black;
+    font-family: garamond;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 65px;
+    margin-bottom: 10px; 
+    margin-right: 20px;
+    margin-left: 20px;
+  }
